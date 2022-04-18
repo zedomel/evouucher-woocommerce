@@ -1,0 +1,416 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EVoucherWP-WooCommerce Add-On\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-22 04:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: templates/emails/customer-new-voucher-plain.php:21
+#: templates/emails/customer-new-voucher.php:27
+msgid "Access the link to download your voucher:"
+msgid_plural "Access the links to download your vouchers:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/settings/class-evwp-wc-settings.php:57
+msgid ""
+"After the specified number of days customer will not be allowed to change "
+"the voucher"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:49
+msgid "Allow customers to change vouchers after completing purchase."
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:48
+msgid "Allow voucher exchanges"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:60
+#: templates/myaccount/vouchers.php:57
+msgid "Already used"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:57
+#: templates/myaccount/vouchers.php:54
+msgid "Available"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:179
+#: includes/class-evwp-wc-voucher-mail.php:187
+#, php-format
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:88
+#: templates/myaccount/vouchers.php:82
+msgid "Change"
+msgstr ""
+
+#: templates/myaccount/change-voucher.php:36
+#: includes/admin/class-evwp-wc-myaccount-endpoint.php:68
+msgid "Change Voucher"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:45
+msgid "Change Voucher Options"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:194
+msgid "Choose when send vouchers according to order status"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:205
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:198
+msgid "Completed"
+msgstr ""
+
+#: includes/class-evwp-wc-change-voucher.php:58
+#: includes/class-evwp-wc-change-voucher.php:128
+msgid "Could not change your voucher. Please try again."
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:245
+msgid "Country: "
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:17
+msgid "Custom code"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:302
+msgid "Date"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:58
+msgid "E-mail to send the Voucher"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-meta-boxes.php:64
+msgid "E-Voucher"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-meta-boxes.php:65
+msgid ""
+"E-Voucher products automatic generates e-voucher and send it to customers."
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-voucher-tab.php:28
+msgid "E-Voucher WP"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:203
+msgid "Email type"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:172
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:170
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:18
+msgid "Enter voucher custom code "
+msgstr ""
+
+#. Name of the plugin
+msgid "EVoucherWP-WooCommerce Add-On"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"EVoucherWP-WooCommerce allows integration of EVoucherWP with WooCommerce "
+"plugin. WooCommerce products can be set to generate vouchers to download, "
+"send vouchers as WooCommerce email, setup voucher to a specific Order and "
+"Product."
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:63
+msgid "Expired"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:303
+msgid "Expiry"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:67
+msgid "Gift Options"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:44
+#: templates/myaccount/vouchers.php:42
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:35
+#: templates/myaccount/change-voucher.php:34
+msgid "Input only the voucher number without prefix or suffix (if any)"
+msgstr ""
+
+#. Author of the plugin
+msgid "José A. Salim"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:27
+#: templates/myaccount/manager-vouchers.php:107
+msgid "LIVE"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:56
+msgid "Maximum number of days to change voucher"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:67
+#: includes/class-evwp-wc-voucher-gift.php:93
+msgid "Message"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:73
+#: templates/myaccount/vouchers.php:67
+msgid "Never expires"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:124
+#: templates/myaccount/vouchers.php:113
+msgid "Next"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:131
+#: templates/myaccount/vouchers.php:120
+msgid "No voucher found."
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:48
+msgid "Offer this voucher to someone special"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:53
+#, php-format
+msgid "Oh! This Voucher has expired in %s!"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:61
+msgid "Oh! This Voucher is not available anymore! It was already used."
+msgstr ""
+
+#: templates/validation/validate-voucher.php:65
+msgid "Oh! This Voucher is not valid!"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:57
+#, php-format
+msgid "Oh! This Voucher will only be available after %s!"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:49
+msgid "OK! Voucher is valid!"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:301
+msgid "Order"
+msgstr ""
+
+#: includes/admin/metaboxes/class-evwp-wc-meta-box-order.php:37
+msgid "Order:"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:304
+msgid "PIN"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:82
+msgid "Please give the recipient's Email to send the gift"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:120
+#: templates/myaccount/vouchers.php:109
+msgid "Previous"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:199
+msgid "Processing"
+msgstr ""
+
+#: includes/admin/metaboxes/class-evwp-wc-meta-box-order.php:44
+msgid "Product Item:"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-voucher-tab.php:76
+msgid "Random codes"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:92
+msgid "Recipient's Email"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:48
+msgid "Require a valid e-mail address to download voucher"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:47
+msgid "Require e-mail address"
+msgstr ""
+
+#: includes/admin/metaboxes/class-evwp-wc-meta-box-order.php:83
+msgid "Resend voucher"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-voucher-tab.php:75
+msgid "Select a code type"
+msgstr ""
+
+#: includes/evwp-wc-functions.php:81 includes/evwp-wc-functions.php:89
+msgid "Select a value"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:23
+msgid "Select code length..."
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:25
+msgid "Select the length of voucher code"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:12
+msgid "Select the type of voucher code generator used by this product"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-gift.php:43
+msgid "Send as gift"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-factory.php:62
+msgid "Send voucher(s)"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-voucher-tab.php:77
+msgid "Sequential codes"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:70
+msgid "Show send as gift form"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:71
+msgid "Show send as gift form at WooCommerce checkout page"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-voucher-tab.php:78
+msgid "Single code"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:305
+msgid "Status"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:176
+msgid "Subject"
+msgstr ""
+
+#: includes/class-evwp-wc-change-voucher.php:100
+msgid "The exchange period has ended or your voucher has expired!"
+msgstr ""
+
+#: includes/settings/class-evwp-wc-settings.php:50
+msgid ""
+"The voucher price (excluding taxes) will be added as discount into customer "
+"current cart"
+msgstr ""
+
+#: includes/class-evwp-wc-change-voucher.php:120
+msgid "This voucher was already selected to change."
+msgstr ""
+
+#. URI of the plugin
+msgid "TODO"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "TODO: https://github.com/zedomel/"
+msgstr ""
+
+#: templates/validation/validate-voucher.php:37
+msgid "Validate"
+msgstr ""
+
+#: templates/myaccount/manager-vouchers.php:84
+#: templates/myaccount/vouchers.php:78
+msgid "View"
+msgstr ""
+
+#: includes/class-evwp-wc-change-voucher.php:94
+msgid "Voucher already used! You can not change it."
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:24
+msgid "Voucher Code Length"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:30
+msgid "Voucher Code Prefix"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:35
+msgid "Voucher Code Suffix"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:11
+msgid "Voucher Code Type"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:31
+msgid "Voucher emails are sent when a customer completes a order"
+msgstr ""
+
+#: includes/admin/views/html-product-data-evoucherwp.php:40
+msgid "Voucher expiration in days"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:96
+msgid "Voucher has been sent to customer"
+msgid_plural "Vouchers have been sent to customer"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/validation/validate-voucher.php:33
+#: templates/myaccount/change-voucher.php:32
+msgid "Voucher number (PIN):"
+msgstr ""
+
+#: includes/evwp-wc-template-functions.php:216
+#: includes/evwp-wc-template-functions.php:236
+msgid "Voucher owner's: "
+msgstr ""
+
+#: includes/admin/class-evwp-wc-myaccount-endpoint.php:63
+msgid "Vouchers"
+msgstr ""
+
+#: includes/admin/class-evwp-wc-admin-meta-boxes.php:50
+msgid "WooCommerce Order"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:112
+msgid "Your voucher is available"
+msgstr ""
+
+#: includes/class-evwp-wc-voucher-mail.php:122
+msgid "Your Voucher is Available"
+msgid_plural "Your Vouchers are Available"
+msgstr[0] ""
+msgstr[1] ""
